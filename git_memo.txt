@@ -1,0 +1,14 @@
+Adding files for a commit :
+	$ git file1 file2 file3
+
+Commiting All the  Files
+	$ git commit -a
+
+Commiting some files
+	$ git commit file1 file2 file3
+
+Getting the last snapshot
+	$ git pull
+
+Pushing the new files/modifications to the server
+	$ git push
