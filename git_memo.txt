@@ -1,5 +1,5 @@
 Adding files for a commit :
-	$ git file1 file2 file3
+	$ git add file1 file2 file3
 
 Commiting All the  Files
 	$ git commit -a
