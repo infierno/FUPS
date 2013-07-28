@@ -4,6 +4,10 @@ FUPS
 Random, Use{less,ful} Shell scripts from a franco-german-piratish friendship. 
 We create, share and improve everyday life use{less,full} scripts CLI in GNU/Linux.
 
+== To Do List ==
+- [x] Adding the Book Downloader
+- [ ] Adding the YT-DL scripts 
+- [ ] Adding the IPTables script
 
 == About the HTML & PHP Book Downloader ==
 
