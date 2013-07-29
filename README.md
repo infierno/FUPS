@@ -6,6 +6,7 @@ We create, share and improve everyday life use{less,full} scripts CLI in GNU/Lin
 
 == To Do List ==
 - [x] Adding the Book Downloader
+- [x] Adding the Backup Script
 - [ ] Adding the YT-DL scripts 
 - [ ] Adding the IPTables script
 
