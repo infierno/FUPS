@@ -25,7 +25,7 @@ case $reason in
 esac
 
 ######
-# In this part, the user can keep the `read` command, or just define it for a special device, depending on how much devices
+# In this part, the user can keep the `read` command, or just define the variable for a special device, depending on how much devices
 # are involved in the backup processus...
 ######
 
@@ -35,7 +35,7 @@ echo "Type the full path of the backup directory"
 read bckp_path
 if [ -d $bckp_path ] 
 then
-	rsync -rhvbp --progress --backup-dir=previous_versions.dir  --compress-level=9 $path $bckp_path
+	rsync -rhvbp --progress --stats --backup-dir=previous_versions.dir  --compress-level=9 $path $bckp_path
 else
 mkdir $bckp_path
 fi
