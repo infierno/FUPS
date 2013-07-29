@@ -35,7 +35,7 @@ echo "Type the full path of the backup directory"
 read bckp_path
 if [ -d $bckp_path ] 
 then
-	rsync -rhvbp --progress --backup-dir=previous_versions.dir  --compress-level=9 $dev_path $bckp_path
+	rsync -rhvbp --progress --backup-dir=previous_versions.dir  --compress-level=9 $path $bckp_path
 else
 mkdir $bckp_path
 fi
