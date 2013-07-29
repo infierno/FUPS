@@ -1,0 +1,15 @@
+All the scripts are free software: you can redistribute them and/or modify
+    them under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    These scripts are distributed in the hope that they will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program (LICENCE file).  If not, see {http://www.gnu.org/licenses/}.
+
+Funny Use{less,full} and Piratish shell Scripts (FUPS) Copyright (C) 2013  Edelwin Khaelos and Sebastian Weiland
+You can contact and/or insult them at edelwin@mailoo.org and tech@sebids.de
