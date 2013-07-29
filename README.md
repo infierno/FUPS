@@ -27,3 +27,13 @@ chmod +x HTML_PHP_Book_Downloader.sh to make it executable
 And the second part of the script will rename every 1.{php,html} in 01.{php.html}.
 
 And then you have your book. YOU SHOULD CREATE A SPECIFIC DIRECTORY FOR THE PAGES ! :D
+
+== About the Backup Script ==
+
+This is script is very simple.
+But you should look at the source before executing it, because of the 2nd part of the script wich involve the `read`
+command.
+If you use a lot of devices, it is recommended to let the script as is. Otherwise, you can specify the device's path for
+a everyday use. If you want a simple reason to do so, well think about the 3 secondes you'll save at every backup :D
+The script uses rsync, with a bunch of option, such as --progress, --stats, verbose and the 9th chamber of Shaoli-*hahem*-compression level. the --backup option is also enabled, with previous_versions.dir as backup directory.
+If you do not want/need/know what is/ a backup directory inside the backup directory, you should remove this option.
