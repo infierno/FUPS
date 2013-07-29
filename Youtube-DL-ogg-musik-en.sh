@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Download Video and converts it into MP3 for the ID3-Tags 
 # 
 
