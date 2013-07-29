@@ -3,6 +3,8 @@ FUPS
 
 Random, Use{less,ful} Shell scripts from a franco-german-piratish friendship. 
 We create, share and improve everyday life use{less,full} scripts CLI in GNU/Linux.
+You can contact us on IRC : #FUPS @ chat.freenode.net 6697 => irc.lc/freenode/fups/githubvisitor for a web client
+
 
 == To Do List ==
 - [x] Adding the Book Downloader
