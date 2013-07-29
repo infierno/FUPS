@@ -9,8 +9,8 @@ You can contact us on IRC : #FUPS @ chat.freenode.net 6697 => irc.lc/freenode/fu
 == To Do List ==
 - [x] Adding the Book Downloader
 - [x] Adding the Backup Script
-- [ ] Adding the YT-DL scripts 
-- [ ] Adding the IPTables script
+- [x] Adding the YT-DL scripts 
+- [x] Adding the IPTables script
 
 == About the HTML & PHP Book Downloader ==
 
